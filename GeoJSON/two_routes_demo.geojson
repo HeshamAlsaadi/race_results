@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "50K Route",
+        "distance_label": "50K",
+        "color": "#22c55e",
+        "stroke": "#22c55e",
+        "stroke-width": 4,
+        "stroke-opacity": 0.95
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [56.3151191, 24.9947773],
+          [56.3142000, 24.9965000],
+          [56.3131000, 24.9989000],
+          [56.3114681, 25.0081682],
+          [56.3099461, 25.0008180],
+          [56.3151191, 24.9947773]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "100K Route",
+        "distance_label": "100K",
+        "color": "#ef4444",
+        "stroke": "#ef4444",
+        "stroke-width": 4,
+        "stroke-opacity": 0.95
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [56.3151191, 24.9947773],
+          [56.3160000, 24.9962000],
+          [56.3180000, 25.0010000],
+          [56.3192178, 25.0048006],
+          [56.3172000, 25.0068000],
+          [56.3150142, 24.9989226],
+          [56.3151191, 24.9947773]
+        ]
+      }
+    }
+  ]
+}
